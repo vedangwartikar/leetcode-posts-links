@@ -13,6 +13,8 @@ Helpful Codes and Templates for Interview Questions
   * <a href="https://leetcode.com/discuss/interview-experience/799918/google-swe-l4-july-2020-offer" target="_blank">Google | SWE L4 | July 2020 [Offer]</a>
 ### Amazon ### 
   * <a href="https://leetcode.com/discuss/interview-experience/789388/Amazon-or-SDE2-or-UK-or-Aug-2020-Reject" target="_blank">Amazon | SDE2 | UK | Aug 2020 [Reject]</a>
+### Microsoft ### 
+  * <a href="https://leetcode.com/discuss/interview-experience/807373/microsoft-software-engineering-intern-india-august-2020-offer" target="_blank">Microsoft | Software Engineering Intern | India | August 2020 [Offer]</a>
  
 ## System Design ##
 * <a href="https://leetcode.com/discuss/interview-question/system-design/786972/coupon-management-system-system-design-interview" target="_blank">Coupon Management System</a>
